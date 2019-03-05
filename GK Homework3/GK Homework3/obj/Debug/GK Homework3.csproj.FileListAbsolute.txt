@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GK Homework3\GK Homework3\bin\Debug\GK Homework3.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GK Homework3\GK Homework3\bin\Debug\GK Homework3.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GK Homework3\GK Homework3\bin\Debug\GK Homework3.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GK Homework3\GK Homework3\obj\Debug\GK Homework3.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GK Homework3\GK Homework3\obj\Debug\GK Homework3.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GK Homework3\GK Homework3\obj\Debug\GK Homework3.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GK Homework3\GK Homework3\obj\Debug\GK Homework3.pdb

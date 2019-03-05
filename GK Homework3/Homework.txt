@@ -1,0 +1,31 @@
+Advice:
+Before starting resolving the problems, please make sure that, you’ve passed the slides from the Day3 lecture and that you’ve understood the material well enough.
+
+Task 1.
+Write a program that will print out all numbers from the range 1-N (N is input from keyboard, N>2) that divide with 3.
+Task 2.
+Write a program that will print out all numbers in the range 1-N (N is input from keyboard, N>5) that divide 2 and 3.
+Task 3.
+Write a program, which will be calculating the product of the digits of an input number.
+Task 4.
+Write a program that will find out the sum of all even numbers in the range 1-N (N is input from keyboard).
+Task 5.
+Write a program that will find out the sum of all odd numbers in the range 1-N (N is input from keyboard).
+Task 6.
+Write a program that will find out the sum of all numbers that divide 5 in the range 1-N (N is input from keyboard)
+Task 7.
+Write a program that will reverse the array {“a”,”b”,”c”,”d”} so that the output is {“d”,“c”,“b”,“a”}. Hint: use Array.Reverse().
+Task 8.
+Write a program that will read two arrays Niza1 and Niza2. Then the program has to make a comparison of the arrays and determine whether they are equal or not. 
+Task 9.
+Write a program that will find all numbers in between 1 and 1000, that divide the sum composed of their digits.
+Task 10.
+Write a program that will find out all numbers in the range [1 : 1000] that divide the product composed of their digits.
+Task 11.
+Write a program that will print out all two-digit numbers, which have the first digit greater than 	the second digit.
+Task 12: 
+Write a short program that prints each number from 1 to 100 on a new line.
+For each number that is divided by 3 print “Fizz” instead of the number.
+For each number that is divided by 5 print “Buzz” instead of the number.
+For each number that is divided by 3 and 5  print “FizzBuzz” instead of the number.
+
